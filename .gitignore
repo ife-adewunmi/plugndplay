@@ -33,8 +33,3 @@ composer.lock
 /config/markets.php
 /extensions/*
 fresns-dev.json
-
-# Docker
-!docker/volumes/redis
-docker/volumes/redis/*
-!docker/volumes/redis/.gitkeep
